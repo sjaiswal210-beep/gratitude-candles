@@ -1,0 +1,730 @@
+[
+  {
+    "id": 1,
+    "name": "Small Candle Holders",
+    "price": 25,
+    "category": "Candle Holders",
+    "image": "assets/products/product-01.webp"
+  },
+  {
+    "id": 2,
+    "name": "Star Candle Holders",
+    "price": 30,
+    "category": "Candle Holders",
+    "image": "assets/products/product-02.webp"
+  },
+  {
+    "id": 3,
+    "name": "Mandala Candle Holders",
+    "price": 40,
+    "category": "Candle Holders",
+    "image": "assets/products/product-03.webp"
+  },
+  {
+    "id": 4,
+    "name": "Lotus Candle Holders",
+    "price": 40,
+    "category": "Candle Holders",
+    "image": "assets/products/product-04.webp"
+  },
+  {
+    "id": 5,
+    "name": "Round Candle Holders",
+    "price": 40,
+    "category": "Candle Holders",
+    "image": "assets/products/product-05.webp"
+  },
+  {
+    "id": 6,
+    "name": "Round Vase",
+    "price": 80,
+    "category": "Vases",
+    "image": "assets/products/product-06.webp"
+  },
+  {
+    "id": 7,
+    "name": "Stone Candle Holders",
+    "price": 35,
+    "category": "Candle Holders",
+    "image": "assets/products/product-07.webp"
+  },
+  {
+    "id": 8,
+    "name": "Round Jar Candle Holders",
+    "price": 60,
+    "category": "Candle Holders",
+    "image": "assets/products/product-08.webp"
+  },
+  {
+    "id": 9,
+    "name": "Heart Candle Holders",
+    "price": 60,
+    "category": "Candle Holders",
+    "image": "assets/products/product-09.webp"
+  },
+  {
+    "id": 10,
+    "name": "Sea Shell Candle Holders",
+    "price": 40,
+    "category": "Candle Holders",
+    "image": "assets/products/product-10.webp"
+  },
+  {
+    "id": 11,
+    "name": "Tub Candle Holders",
+    "price": 120,
+    "category": "Candle Holders",
+    "image": "assets/products/product-11.webp"
+  },
+  {
+    "id": 12,
+    "name": "Diamond Candle Holders",
+    "price": 35,
+    "category": "Candle Holders",
+    "image": "assets/products/product-12.webp"
+  },
+  {
+    "id": 13,
+    "name": "Shell Tray",
+    "price": 50,
+    "category": "Trays",
+    "image": "assets/products/product-13.webp"
+  },
+  {
+    "id": 14,
+    "name": "Star Tray",
+    "price": 50,
+    "category": "Trays",
+    "image": "assets/products/product-14.webp"
+  },
+  {
+    "id": 15,
+    "name": "Bubble Tray",
+    "price": 60,
+    "category": "Trays",
+    "image": "assets/products/product-15.webp"
+  },
+  {
+    "id": 16,
+    "name": "Heart Tray",
+    "price": 60,
+    "category": "Trays",
+    "image": "assets/products/product-16.webp"
+  },
+  {
+    "id": 17,
+    "name": "Ring Tray",
+    "price": 60,
+    "category": "Trays",
+    "image": "assets/products/product-17.webp"
+  },
+  {
+    "id": 18,
+    "name": "Big Shell Candles Holder",
+    "price": 120,
+    "category": "Candle Holders",
+    "image": "assets/products/product-18.webp"
+  },
+  {
+    "id": 19,
+    "name": "Box Candles Holder",
+    "price": 120,
+    "category": "Candle Holders",
+    "image": "assets/products/product-19.webp"
+  },
+  {
+    "id": 20,
+    "name": "Rangoli Candles Holder",
+    "price": 80,
+    "category": "Candle Holders",
+    "image": "assets/products/product-20.webp"
+  },
+  {
+    "id": 21,
+    "name": "House Candle Holder",
+    "price": 80,
+    "category": "Candle Holders",
+    "image": "assets/products/product-21.webp"
+  },
+  {
+    "id": 22,
+    "name": "Bow Candle Holder",
+    "price": 120,
+    "category": "Candle Holders",
+    "image": "assets/products/product-22.webp"
+  },
+  {
+    "id": 23,
+    "name": "Christmas Candle Holder",
+    "price": 70,
+    "category": "Seasonal",
+    "image": "assets/products/product-23.webp"
+  },
+  {
+    "id": 24,
+    "name": "Christmas Tree Plate",
+    "price": 60,
+    "category": "Seasonal",
+    "image": "assets/products/product-24.webp"
+  },
+  {
+    "id": 25,
+    "name": "Merry Moose Holder",
+    "price": 70,
+    "category": "Seasonal",
+    "image": "assets/products/product-25.webp"
+  },
+  {
+    "id": 26,
+    "name": "Angel Glow Holder",
+    "price": 65,
+    "category": "Seasonal",
+    "image": "assets/products/product-26.webp"
+  },
+  {
+    "id": 27,
+    "name": "Cozy Car Candle Holder",
+    "price": 80,
+    "category": "Seasonal",
+    "image": "assets/products/product-27.webp"
+  },
+  {
+    "id": 28,
+    "name": "Twilight Star Holder",
+    "price": 60,
+    "category": "Seasonal",
+    "image": "assets/products/product-28.webp"
+  },
+  {
+    "id": 29,
+    "name": "Sea Bloom Holder",
+    "price": 75,
+    "category": "Decorative Trays",
+    "image": "assets/products/product-29.webp"
+  },
+  {
+    "id": 30,
+    "name": "Divine Wings Holder",
+    "price": 70,
+    "category": "Decorative Trays",
+    "image": "assets/products/product-30.webp"
+  },
+  {
+    "id": 31,
+    "name": "Handcrafted Candle Design 31",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-031.webp"
+  },
+  {
+    "id": 32,
+    "name": "Handcrafted Candle Design 32",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-032.webp"
+  },
+  {
+    "id": 33,
+    "name": "Handcrafted Candle Design 33",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-033.webp"
+  },
+  {
+    "id": 34,
+    "name": "Handcrafted Candle Design 34",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-034.webp"
+  },
+  {
+    "id": 35,
+    "name": "Handcrafted Candle Design 35",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-035.webp"
+  },
+  {
+    "id": 36,
+    "name": "Handcrafted Candle Design 36",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-036.webp"
+  },
+  {
+    "id": 37,
+    "name": "Handcrafted Candle Design 37",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-037.webp"
+  },
+  {
+    "id": 38,
+    "name": "Handcrafted Candle Design 38",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-038.webp"
+  },
+  {
+    "id": 39,
+    "name": "Handcrafted Candle Design 39",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-039.webp"
+  },
+  {
+    "id": 40,
+    "name": "Handcrafted Candle Design 40",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-040.webp"
+  },
+  {
+    "id": 41,
+    "name": "Handcrafted Candle Design 41",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-041.webp"
+  },
+  {
+    "id": 42,
+    "name": "Handcrafted Candle Design 42",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-042.webp"
+  },
+  {
+    "id": 43,
+    "name": "Handcrafted Candle Design 43",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-043.webp"
+  },
+  {
+    "id": 44,
+    "name": "Handcrafted Candle Design 44",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-044.webp"
+  },
+  {
+    "id": 45,
+    "name": "Handcrafted Candle Design 45",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-045.webp"
+  },
+  {
+    "id": 46,
+    "name": "Handcrafted Candle Design 46",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-046.webp"
+  },
+  {
+    "id": 47,
+    "name": "Handcrafted Candle Design 47",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-047.webp"
+  },
+  {
+    "id": 48,
+    "name": "Handcrafted Candle Design 48",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-048.webp"
+  },
+  {
+    "id": 49,
+    "name": "Handcrafted Candle Design 49",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-049.webp"
+  },
+  {
+    "id": 50,
+    "name": "Handcrafted Candle Design 50",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-050.webp"
+  },
+  {
+    "id": 51,
+    "name": "Handcrafted Candle Design 51",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-051.webp"
+  },
+  {
+    "id": 52,
+    "name": "Handcrafted Candle Design 52",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-052.webp"
+  },
+  {
+    "id": 53,
+    "name": "Handcrafted Candle Design 53",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-053.webp"
+  },
+  {
+    "id": 54,
+    "name": "Handcrafted Candle Design 54",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-054.webp"
+  },
+  {
+    "id": 55,
+    "name": "Handcrafted Candle Design 55",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-055.webp"
+  },
+  {
+    "id": 56,
+    "name": "Handcrafted Candle Design 56",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-056.webp"
+  },
+  {
+    "id": 57,
+    "name": "Handcrafted Candle Design 57",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-057.webp"
+  },
+  {
+    "id": 58,
+    "name": "Handcrafted Candle Design 58",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-058.webp"
+  },
+  {
+    "id": 59,
+    "name": "Handcrafted Candle Design 59",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-059.webp"
+  },
+  {
+    "id": 60,
+    "name": "Handcrafted Candle Design 60",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-060.webp"
+  },
+  {
+    "id": 61,
+    "name": "Handcrafted Candle Design 61",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-061.webp"
+  },
+  {
+    "id": 62,
+    "name": "Handcrafted Candle Design 62",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-062.webp"
+  },
+  {
+    "id": 63,
+    "name": "Handcrafted Candle Design 63",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-063.webp"
+  },
+  {
+    "id": 64,
+    "name": "Handcrafted Candle Design 64",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-064.webp"
+  },
+  {
+    "id": 65,
+    "name": "Handcrafted Candle Design 65",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-065.webp"
+  },
+  {
+    "id": 66,
+    "name": "Handcrafted Candle Design 66",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-066.webp"
+  },
+  {
+    "id": 67,
+    "name": "Handcrafted Candle Design 67",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-067.webp"
+  },
+  {
+    "id": 68,
+    "name": "Handcrafted Candle Design 68",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-068.webp"
+  },
+  {
+    "id": 69,
+    "name": "Handcrafted Candle Design 69",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-069.webp"
+  },
+  {
+    "id": 70,
+    "name": "Handcrafted Candle Design 70",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-070.webp"
+  },
+  {
+    "id": 71,
+    "name": "Handcrafted Candle Design 71",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-071.webp"
+  },
+  {
+    "id": 72,
+    "name": "Handcrafted Candle Design 72",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-072.webp"
+  },
+  {
+    "id": 73,
+    "name": "Handcrafted Candle Design 73",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-073.webp"
+  },
+  {
+    "id": 74,
+    "name": "Handcrafted Candle Design 74",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-074.webp"
+  },
+  {
+    "id": 75,
+    "name": "Handcrafted Candle Design 75",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-075.webp"
+  },
+  {
+    "id": 76,
+    "name": "Handcrafted Candle Design 76",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-076.webp"
+  },
+  {
+    "id": 77,
+    "name": "Handcrafted Candle Design 77",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-077.webp"
+  },
+  {
+    "id": 78,
+    "name": "Handcrafted Candle Design 78",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-078.webp"
+  },
+  {
+    "id": 79,
+    "name": "Handcrafted Candle Design 79",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-079.webp"
+  },
+  {
+    "id": 80,
+    "name": "Handcrafted Candle Design 80",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-080.webp"
+  },
+  {
+    "id": 81,
+    "name": "Handcrafted Candle Design 81",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-081.webp"
+  },
+  {
+    "id": 82,
+    "name": "Handcrafted Candle Design 82",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-082.webp"
+  },
+  {
+    "id": 83,
+    "name": "Handcrafted Candle Design 83",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-083.webp"
+  },
+  {
+    "id": 84,
+    "name": "Handcrafted Candle Design 84",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-084.webp"
+  },
+  {
+    "id": 85,
+    "name": "Handcrafted Candle Design 85",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-085.webp"
+  },
+  {
+    "id": 86,
+    "name": "Handcrafted Candle Design 86",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-086.webp"
+  },
+  {
+    "id": 87,
+    "name": "Handcrafted Candle Design 87",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-087.webp"
+  },
+  {
+    "id": 88,
+    "name": "Handcrafted Candle Design 88",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-088.webp"
+  },
+  {
+    "id": 89,
+    "name": "Handcrafted Candle Design 89",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-089.webp"
+  },
+  {
+    "id": 90,
+    "name": "Handcrafted Candle Design 90",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-090.webp"
+  },
+  {
+    "id": 91,
+    "name": "Handcrafted Candle Design 91",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-091.webp"
+  },
+  {
+    "id": 92,
+    "name": "Handcrafted Candle Design 92",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-092.webp"
+  },
+  {
+    "id": 93,
+    "name": "Handcrafted Candle Design 93",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-093.webp"
+  },
+  {
+    "id": 94,
+    "name": "Handcrafted Candle Design 94",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-094.webp"
+  },
+  {
+    "id": 95,
+    "name": "Handcrafted Candle Design 95",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-095.webp"
+  },
+  {
+    "id": 96,
+    "name": "Handcrafted Candle Design 96",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-096.webp"
+  },
+  {
+    "id": 97,
+    "name": "Handcrafted Candle Design 97",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-097.webp"
+  },
+  {
+    "id": 98,
+    "name": "Handcrafted Candle Design 98",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-098.webp"
+  },
+  {
+    "id": 99,
+    "name": "Handcrafted Candle Design 99",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-099.webp"
+  },
+  {
+    "id": 100,
+    "name": "Handcrafted Candle Design 100",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-100.webp"
+  },
+  {
+    "id": 101,
+    "name": "Handcrafted Candle Design 101",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-101.webp"
+  },
+  {
+    "id": 102,
+    "name": "Handcrafted Candle Design 102",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-102.webp"
+  },
+  {
+    "id": 103,
+    "name": "Handcrafted Candle Design 103",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-103.webp"
+  },
+  {
+    "id": 104,
+    "name": "Handcrafted Candle Design 104",
+    "price": null,
+    "category": "More handmade designs",
+    "image": "assets/products/community-104.webp"
+  }
+]

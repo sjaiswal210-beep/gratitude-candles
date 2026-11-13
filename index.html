@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f2eb">
+  <meta name="description" content="Thoughtfully crafted candle holders, trays and home accents. Discover handcrafted pieces for warm, beautiful spaces.">
+  <title>Glow & Form — Handmade Home Accents</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="announcement">Small-batch details. Big-hearted gifting. <span>Explore the collection ↓</span></div>
+  <header class="site-header">
+    <a class="brand" href="#"><span class="brand-mark">g.</span><span><b>GLOW & FORM</b><small>HANDMADE HOME ACCENTS</small></span></a>
+    <nav><a href="#collection">Shop</a><a href="#story">Our story</a><a href="#care">Care guide</a></nav>
+    <button class="cart-button" id="cartOpen" aria-label="Open shopping bag">Bag <span id="cartCount">0</span></button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">OBJECTS THAT MAKE A SPACE FEEL LIKE HOME</p>
+        <h1>Little pieces.<br><em>Lovely moments.</em></h1>
+        <p class="hero-desc">Hand-finished candle holders, trays and keepsakes designed to bring a softer glow to everyday spaces.</p>
+        <a class="primary-btn" href="#collection">Explore the collection <span>↗</span></a>
+        <div class="hero-note"><span class="sparkle">✳</span> Thoughtful details · Giftable finds · Made with care</div>
+      </div>
+      <div class="hero-art">
+        <div class="hero-photo"><img src="assets/products/product-23.webp" alt="Textured Christmas candle holder from the collection"></div>
+        <div class="hero-stamp">MADE TO<br>MAKE YOU<br>SMILE <span>✳</span></div>
+        <div class="hero-caption">THE LITTLE JOYS COLLECTION <span>01 / 30</span></div>
+      </div>
+    </section>
+
+    <section class="ticker"><span>HANDMADE FEEL</span> ✳ <span>WARM LIGHT</span> ✳ <span>EVERYDAY BEAUTY</span> ✳ <span>THOUGHTFUL GIFTING</span> ✳ <span>HANDMADE FEEL</span></section>
+
+    <section class="collection section" id="collection">
+      <div class="section-heading">
+        <div><p class="eyebrow">THE COLLECTION</p><h2>Find your <em>favourite.</em></h2></div>
+        <p class="section-intro">A little something for your coffee table, cosy corner or someone special.</p>
+      </div>
+      <div class="shop-tools">
+        <div class="filters" id="filters">
+          <button class="filter active" data-category="All">All pieces <span>104</span></button>
+          <button class="filter" data-category="Candle Holders">Candle holders</button>
+          <button class="filter" data-category="Trays">Trays</button>
+          <button class="filter" data-category="Vases">Vases</button>
+          <button class="filter" data-category="Seasonal">Seasonal</button>
+          <button class="filter" data-category="Decorative Trays">Decorative trays</button>
+          <button class="filter" data-category="More handmade designs">More handmade designs</button>
+        </div>
+        <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Find a piece..." aria-label="Search products"></label>
+      </div>
+      <div class="product-grid" id="productGrid" aria-live="polite"></div>
+      <p class="catalogue-note">Browse the full photo collection. Some newly added designs are marked “Price on request” until their prices are confirmed.</p>
+    </section>
+
+    <section class="story section" id="story">
+      <div class="story-image"><img src="assets/products/product-29.webp" alt="Decorative sea bloom trays arranged together"></div>
+      <div class="story-copy"><p class="eyebrow">A SLOWER KIND OF BEAUTIFUL</p><h2>Made for the<br><em>moments in between.</em></h2><p>From a quiet cup of tea to a table set for friends, the smallest details can make a day feel special. Explore sculptural shapes, soft textures and charming little accents.</p><a href="#collection" class="text-link">Shop all pieces <span>↗</span></a></div>
+    </section>
+
+    <section class="values section" id="care">
+      <div class="value"><span>01</span><h3>Thoughtful forms</h3><p>Distinctive shapes and tactile details that add character to your space.</p></div>
+      <div class="value"><span>02</span><h3>Easy to gift</h3><p>Lovely little finds for celebrations, thank-yous and just-because moments.</p></div>
+      <div class="value"><span>03</span><h3>Care makes it last</h3><p>Handle gently, keep dry unless the item is designed for water, and clean with a soft cloth.</p></div>
+    </section>
+
+    <section class="closing-cta"><p class="eyebrow">HAVE A QUESTION OR A GIFT IN MIND?</p><h2>Let's find your <em>perfect piece.</em></h2><a class="primary-btn light" id="whatsappCta" href="#" target="_blank" rel="noopener">Chat with us on WhatsApp <span>↗</span></a></section>
+  </main>
+
+  <footer><a class="brand footer-brand" href="#"><span class="brand-mark">g.</span><span><b>GLOW & FORM</b><small>HANDMADE HOME ACCENTS</small></span></a><p>Made with care. Styled by you.</p><small>© <span id="year"></span> Glow & Form. All rights reserved.</small></footer>
+
+  <div class="drawer-backdrop" id="backdrop"></div>
+  <aside class="cart-drawer" id="cartDrawer" aria-label="Shopping bag" aria-hidden="true">
+    <div class="drawer-head"><div><p class="eyebrow">YOUR SELECTION</p><h2>Your bag <span id="drawerCount">(0)</span></h2></div><button id="cartClose" class="close-btn" aria-label="Close bag">×</button></div>
+    <div class="cart-items" id="cartItems"><div class="empty-cart">Your bag is waiting for something lovely ✳</div></div>
+    <div class="drawer-bottom"><div class="subtotal"><span>Subtotal</span><b id="subtotal">₹0</b></div><p>Delivery charges, if any, can be confirmed on WhatsApp.</p><button class="primary-btn checkout" id="checkout">Order on WhatsApp <span>↗</span></button></div>
+  </aside>
+  <div class="toast" id="toast"></div>
+  <script src="script.js"></script>
+</body></html>
