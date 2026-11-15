@@ -4,727 +4,823 @@
     "name": "Small Candle Holders",
     "price": 25,
     "category": "Candle Holders",
-    "image": "assets/products/product-01.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/055dbf14-4e76-4efd-af87-d74bf8f0f883.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 2,
     "name": "Star Candle Holders",
     "price": 30,
     "category": "Candle Holders",
-    "image": "assets/products/product-02.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/0673bb17-b1e3-4e2b-8449-6b888ab339e1.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 3,
     "name": "Mandala Candle Holders",
     "price": 40,
     "category": "Candle Holders",
-    "image": "assets/products/product-03.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/0931564b-ff82-44c6-922e-07a9be7e14bf.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 4,
     "name": "Lotus Candle Holders",
     "price": 40,
     "category": "Candle Holders",
-    "image": "assets/products/product-04.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/0aad52c1-f4eb-4857-a0a7-2e3e3bce4b62.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 5,
     "name": "Round Candle Holders",
     "price": 40,
     "category": "Candle Holders",
-    "image": "assets/products/product-05.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/0b81a3da-b348-427e-a6c8-00e37cd4dd6e.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 6,
     "name": "Round Vase",
     "price": 80,
     "category": "Vases",
-    "image": "assets/products/product-06.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/0cf0ec8b-7a9c-487e-894b-f2d4ef23db9d.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 7,
     "name": "Stone Candle Holders",
     "price": 35,
     "category": "Candle Holders",
-    "image": "assets/products/product-07.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/0f14cb8a-4781-4a43-a1ff-b6fd95811716.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 8,
     "name": "Round Jar Candle Holders",
     "price": 60,
     "category": "Candle Holders",
-    "image": "assets/products/product-08.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/0fdc785a-9e87-4c4c-a590-47611f8b2d38.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 9,
     "name": "Heart Candle Holders",
     "price": 60,
     "category": "Candle Holders",
-    "image": "assets/products/product-09.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/10511bb8-be6e-4d5c-9b0f-226dc16b0fd2.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 10,
     "name": "Sea Shell Candle Holders",
     "price": 40,
     "category": "Candle Holders",
-    "image": "assets/products/product-10.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/13a25351-fc7e-44e3-baf5-097d3bdd799c.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 11,
     "name": "Tub Candle Holders",
     "price": 120,
     "category": "Candle Holders",
-    "image": "assets/products/product-11.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/14b95c8c-0ac4-4d80-8bca-d93351e613a2.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 12,
     "name": "Diamond Candle Holders",
     "price": 35,
     "category": "Candle Holders",
-    "image": "assets/products/product-12.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/19096173-33d3-451c-81c3-e2ca0e9b37ab.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 13,
     "name": "Shell Tray",
     "price": 50,
     "category": "Trays",
-    "image": "assets/products/product-13.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/1923eef1-7b0f-4eee-9e60-0271d9381f52.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 14,
     "name": "Star Tray",
     "price": 50,
     "category": "Trays",
-    "image": "assets/products/product-14.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/2201f64d-009a-4fe8-ab46-1ef0fe1b9f46.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 15,
     "name": "Bubble Tray",
     "price": 60,
     "category": "Trays",
-    "image": "assets/products/product-15.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/23feb612-d42c-4616-af4a-2f159a9043a9.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 16,
     "name": "Heart Tray",
     "price": 60,
     "category": "Trays",
-    "image": "assets/products/product-16.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/272de5de-b4bc-4c95-a3ef-4b860f6e614d.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 17,
     "name": "Ring Tray",
     "price": 60,
     "category": "Trays",
-    "image": "assets/products/product-17.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/2760400f-3de4-443f-b1eb-f905c9b4c197.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 18,
     "name": "Big Shell Candles Holder",
     "price": 120,
     "category": "Candle Holders",
-    "image": "assets/products/product-18.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/2792458d-3342-4a0f-a8e1-90c62204c765.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 19,
     "name": "Box Candles Holder",
     "price": 120,
     "category": "Candle Holders",
-    "image": "assets/products/product-19.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/2a6cc5b5-abb8-4bee-8900-c69fdb92567c.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 20,
     "name": "Rangoli Candles Holder",
     "price": 80,
     "category": "Candle Holders",
-    "image": "assets/products/product-20.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/2ce56620-160e-4d2c-b887-cfc8c4048183.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 21,
     "name": "House Candle Holder",
     "price": 80,
     "category": "Candle Holders",
-    "image": "assets/products/product-21.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/2df7b93d-a5ca-45fb-a11c-8f2625ebae8c.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 22,
     "name": "Bow Candle Holder",
     "price": 120,
     "category": "Candle Holders",
-    "image": "assets/products/product-22.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/31657a37-cf30-4368-8119-b533dfa1843e.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 23,
     "name": "Christmas Candle Holder",
     "price": 70,
     "category": "Seasonal",
-    "image": "assets/products/product-23.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/3c4822d8-9b52-4c76-8b65-5d3c2ab94be4.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 24,
     "name": "Christmas Tree Plate",
     "price": 60,
     "category": "Seasonal",
-    "image": "assets/products/product-24.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/4016d26e-4c3b-4040-87fe-9885a1edd8f5.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 25,
     "name": "Merry Moose Holder",
     "price": 70,
     "category": "Seasonal",
-    "image": "assets/products/product-25.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/409327fd-d42d-4a67-bba6-72f3c90e319d.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 26,
     "name": "Angel Glow Holder",
     "price": 65,
     "category": "Seasonal",
-    "image": "assets/products/product-26.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/466a10ae-b5d1-4d74-b18d-8446babff1f7.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 27,
     "name": "Cozy Car Candle Holder",
     "price": 80,
     "category": "Seasonal",
-    "image": "assets/products/product-27.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/46f954ac-812a-4891-97b2-e3045641dc1c.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 28,
     "name": "Twilight Star Holder",
     "price": 60,
     "category": "Seasonal",
-    "image": "assets/products/product-28.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/4a5192ad-f21f-4e66-b97a-aa037e768f48.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 29,
     "name": "Sea Bloom Holder",
     "price": 75,
     "category": "Decorative Trays",
-    "image": "assets/products/product-29.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/4f7ad7c6-ecbd-4f24-b5d4-d6751b007325.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 30,
     "name": "Divine Wings Holder",
     "price": 70,
     "category": "Decorative Trays",
-    "image": "assets/products/product-30.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/53a558b0-4b19-48a1-ae42-366a0d606c8f.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 31,
     "name": "Handcrafted Candle Design 31",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-031.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/59acc0ef-f3ac-497e-ac12-9b8e097ad79a.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 32,
     "name": "Handcrafted Candle Design 32",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-032.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/59f66de6-7a25-4443-a38a-9d2a93a4ab4e.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 33,
     "name": "Handcrafted Candle Design 33",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-033.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/5b862ec0-67e9-4f5d-b026-1589926b0408.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 34,
     "name": "Handcrafted Candle Design 34",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-034.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/5bf1f7d1-0112-429e-be27-c73013c012fc.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 35,
     "name": "Handcrafted Candle Design 35",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-035.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/5c07445e-1ca5-44d2-bacb-f805462294c0.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 36,
     "name": "Handcrafted Candle Design 36",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-036.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/5e174f31-c382-4eca-9327-e1dbccc50461.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 37,
     "name": "Handcrafted Candle Design 37",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-037.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/5e49c005-14f7-4e36-a7d1-f616d2a2244a.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 38,
     "name": "Handcrafted Candle Design 38",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-038.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/5e5dfe4f-0316-4de9-8b0e-72c7cb7435a4.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 39,
     "name": "Handcrafted Candle Design 39",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-039.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/5eae0680-5127-4671-b933-f9d71be206cb.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 40,
     "name": "Handcrafted Candle Design 40",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-040.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/602f9799-73ef-43c0-8ec2-d7c7a98af42f.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 41,
     "name": "Handcrafted Candle Design 41",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-041.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/6047fb0d-4792-47a0-bb2f-22116d6f3f8c.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 42,
     "name": "Handcrafted Candle Design 42",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-042.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/62ec74ba-c121-43ad-9558-12a3581851c1.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 43,
     "name": "Handcrafted Candle Design 43",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-043.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/63db7174-2764-4899-88c8-9ac783119928.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 44,
     "name": "Handcrafted Candle Design 44",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-044.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/66a99768-571e-4ae1-ace1-85a91c309233.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 45,
     "name": "Handcrafted Candle Design 45",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-045.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/66d903fe-bf49-40de-b906-751841c60f71.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 46,
     "name": "Handcrafted Candle Design 46",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-046.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/67638a94-dc96-4616-b708-cfb670968ef3.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 47,
     "name": "Handcrafted Candle Design 47",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-047.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/6a4a8b2b-5dd0-4fc4-b8a9-101dfce02716.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 48,
     "name": "Handcrafted Candle Design 48",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-048.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/6b55d00c-5412-40ad-b9dd-cb8cb146ad9a.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 49,
     "name": "Handcrafted Candle Design 49",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-049.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/6c9bbecf-a9c5-431f-9c35-e8cc17bc96fe.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 50,
     "name": "Handcrafted Candle Design 50",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-050.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/6d14f2a8-40c0-4d21-9235-29ed981e33ee.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 51,
     "name": "Handcrafted Candle Design 51",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-051.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/6ece4484-5b3b-45c9-803e-dc9e0bf7052f.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 52,
     "name": "Handcrafted Candle Design 52",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-052.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/72916e51-e093-4e78-9bb9-cbf08ad8540a.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 53,
     "name": "Handcrafted Candle Design 53",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-053.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/72be8cc5-3c8d-431f-94a6-5415452fdc12.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 54,
     "name": "Handcrafted Candle Design 54",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-054.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/735fe92a-dbe9-4313-9838-d7cd66c71701.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 55,
     "name": "Handcrafted Candle Design 55",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-055.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/754548e0-12cf-453c-a596-50278eb19ec7.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 56,
     "name": "Handcrafted Candle Design 56",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-056.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/75b434a1-1e9d-45f9-89eb-70864d67fd7d.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 57,
     "name": "Handcrafted Candle Design 57",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-057.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/764f89a3-1ead-4f54-bacb-74a33edccbbf.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 58,
     "name": "Handcrafted Candle Design 58",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-058.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/79425c62-6dec-455d-8841-29918f3c1b7a.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 59,
     "name": "Handcrafted Candle Design 59",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-059.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/79b917b9-758f-4a3d-b411-590dc99984a5.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 60,
     "name": "Handcrafted Candle Design 60",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-060.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/7ad29e74-7f0d-495b-b265-66f01e9eab8d.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 61,
     "name": "Handcrafted Candle Design 61",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-061.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/7fe2bbbf-d905-41ef-9d60-f016e70126e8.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 62,
     "name": "Handcrafted Candle Design 62",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-062.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/855c5658-a996-4208-b3f2-16fc979503eb.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 63,
     "name": "Handcrafted Candle Design 63",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-063.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/86279249-10b4-455d-b6c9-d77b8f865765.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 64,
     "name": "Handcrafted Candle Design 64",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-064.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/88448380-68d8-4920-8c24-41784c49a9ee.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 65,
     "name": "Handcrafted Candle Design 65",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-065.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/897466d9-2ece-43ce-a76e-c38c4d810761.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 66,
     "name": "Handcrafted Candle Design 66",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-066.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/8cbed247-c6fc-40fc-af7b-e02d130db154.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 67,
     "name": "Handcrafted Candle Design 67",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-067.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/8f8c0178-ac01-4452-8f6e-9181181a2e94.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 68,
     "name": "Handcrafted Candle Design 68",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-068.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/92ce944e-c309-4ed4-ab91-1debc72877a9.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 69,
     "name": "Handcrafted Candle Design 69",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-069.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/9924a94d-4c59-48df-8793-fe1de16440f6.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 70,
     "name": "Handcrafted Candle Design 70",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-070.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/9b22c184-5c04-4683-a2e3-e2b95bca660a.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 71,
     "name": "Handcrafted Candle Design 71",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-071.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/9b8954c3-d4b0-42f6-9685-2a3b4a201e75.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 72,
     "name": "Handcrafted Candle Design 72",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-072.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/9c13c272-cd26-4f84-a7a9-17b61c536007.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 73,
     "name": "Handcrafted Candle Design 73",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-073.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/9ccc9bf3-2a04-4148-91b2-699aa04ea792.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 74,
     "name": "Handcrafted Candle Design 74",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-074.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/9cf33bb5-1808-4db6-a9d0-f2edce1e84d7.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 75,
     "name": "Handcrafted Candle Design 75",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-075.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/9ed071e5-dae7-47bb-861c-57fbc5c54873.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 76,
     "name": "Handcrafted Candle Design 76",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-076.webp"
-  },
-  {
-    "id": 77,
-    "name": "Handcrafted Candle Design 77",
-    "price": null,
-    "category": "More handmade designs",
-    "image": "assets/products/community-077.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/9fbf317e-c9bf-4bf2-8f8c-f72288c84169.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 78,
     "name": "Handcrafted Candle Design 78",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-078.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/b20087d7-7a74-4fb9-b615-45901b3e3258.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 79,
     "name": "Handcrafted Candle Design 79",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-079.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/b9cd3728-5f4e-4e41-b339-dee448591352.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 80,
     "name": "Handcrafted Candle Design 80",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-080.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/bbf70892-2c3e-4cd4-8755-bbbda96e82c0.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 81,
     "name": "Handcrafted Candle Design 81",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-081.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/bdfa8be6-1f37-4c5e-a51b-1eea97d4f6c9.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 82,
     "name": "Handcrafted Candle Design 82",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-082.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/bea59f75-6327-42e6-991d-839d192c7679.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 83,
     "name": "Handcrafted Candle Design 83",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-083.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/c28a46c6-d318-4abb-9491-c212b6813444.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 84,
     "name": "Handcrafted Candle Design 84",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-084.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/c6dc0a3e-f0ba-4d3a-9c9c-034d0c1ab5af.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 85,
     "name": "Handcrafted Candle Design 85",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-085.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/cbadce15-c52d-4200-873c-35135fda6766.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 86,
     "name": "Handcrafted Candle Design 86",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-086.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/cca122c7-fb5c-4087-90eb-4b918e9aadbe.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 87,
     "name": "Handcrafted Candle Design 87",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-087.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/d14636b8-f493-4035-a636-0b17fbace15c.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 88,
     "name": "Handcrafted Candle Design 88",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-088.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/d30d747a-a583-4e82-9c9b-297b63123d93.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 89,
     "name": "Handcrafted Candle Design 89",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-089.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/d4912fe1-eb84-43a6-b755-190318f0d83b.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 90,
     "name": "Handcrafted Candle Design 90",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-090.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/d594a126-d892-4c0a-8997-48f3b8da967e.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 91,
     "name": "Handcrafted Candle Design 91",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-091.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/da43c3a1-9b64-4ae2-b08f-ab2c5482197c.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 92,
     "name": "Handcrafted Candle Design 92",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-092.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/dc13e1dc-343f-456b-b080-acadb68ec585.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 93,
     "name": "Handcrafted Candle Design 93",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-093.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/de11ea32-6237-420b-801a-6a7bd247ebac.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 94,
     "name": "Handcrafted Candle Design 94",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-094.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/e12f081f-5439-4e68-889c-f1f8e4510c3b.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 95,
     "name": "Handcrafted Candle Design 95",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-095.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/e421e7e0-265a-446f-9428-b4ae37b2a744.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 96,
     "name": "Handcrafted Candle Design 96",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-096.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/e4458fcf-806a-426c-b883-0a5fa57060fe.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 97,
     "name": "Handcrafted Candle Design 97",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-097.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/e4c3bb3d-a475-45b7-abf2-fd4b10b7c0e7.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 98,
     "name": "Handcrafted Candle Design 98",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-098.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/e4f1d882-ec43-4a7f-8748-3bb53ea82218.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 99,
     "name": "Handcrafted Candle Design 99",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-099.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/e5b6d513-5eee-487d-a8ff-401eb8e9e9bf.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 100,
     "name": "Handcrafted Candle Design 100",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-100.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/e7aa5cf9-9fa1-4522-b206-dd55f3981eea.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 101,
     "name": "Handcrafted Candle Design 101",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-101.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/e836fca4-401d-4774-89e5-3088332425aa.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 102,
     "name": "Handcrafted Candle Design 102",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-102.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/ee250707-1b2a-49a8-a099-9d1fb8258a94.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 103,
     "name": "Handcrafted Candle Design 103",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-103.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/f23b807c-3a51-4998-af2c-813aeef11a75.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   },
   {
     "id": 104,
     "name": "Handcrafted Candle Design 104",
     "price": null,
     "category": "More handmade designs",
-    "image": "assets/products/community-104.webp"
+    "image": "https://raw.githubusercontent.com/sjaiswal210-beep/gratitude-candles/main/f74b2099-6024-4e14-97c9-cc0b05355443.jpeg",
+    "description": "A thoughtfully selected handmade design from the Gratitude Candle collection. Message us for availability and care details."
   }
 ]
