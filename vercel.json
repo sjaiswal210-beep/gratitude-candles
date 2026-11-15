@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/orders",
+      "destination": "https://gratitude-candles-ochfy3cec-kalpdev-s-projects.vercel.app/api/orders"
+    },
+    {
+      "source": "/api/admin-orders",
+      "destination": "https://gratitude-candles-ochfy3cec-kalpdev-s-projects.vercel.app/api/admin-orders"
+    }
+  ]
+}
